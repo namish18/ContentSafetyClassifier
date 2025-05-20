@@ -1,0 +1,33 @@
+{
+    "summary_statistics": {
+        "total_posts": 550,
+        "unsafe_posts": 0,
+        "neutral_posts": 125,
+        "safe_posts": 425,
+        "unsafe_percentage": 0.0,
+        "neutral_percentage": 22.73,
+        "safe_percentage": 77.27
+    },
+    "moderation_reasons": {
+        "common_causes": [
+            {
+                "reason": "Unsafe keywords detected",
+                "count": 71
+            },
+            {
+                "reason": "Highly negative sentiment",
+                "count": 60
+            },
+            {
+                "reason": "High toxicity detected",
+                "count": 54
+            },
+            {
+                "reason": "Insulting content detected",
+                "count": 54
+            }
+        ]
+    },
+    "flagged_examples": [],
+    "overall_assessment": "This feed contains 0.0% unsafe content that requires moderation. The most common issue is Unsafe keywords detected."
+}
